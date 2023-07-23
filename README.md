@@ -31,6 +31,7 @@ pip install djangorestframework
 - Primeiro, crie um novo projeto Django usando o seguinte comando:
 ```
 django-admin startproject main
+cd main
 ```
 ### Em seguida, crie um novo aplicativo dentro do projeto:
 ```
